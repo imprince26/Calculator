@@ -140,7 +140,7 @@ const Calculator = () => {
       <div className="w-full max-w-xs bg-gray-800 rounded-2xl shadow-2xl overflow-hidden transform transition-all">
         <div className="p-4">
           <div className="text-blue-400 text-sm font-medium mb-2">
-            Calculator made by <span className="font-bold">PRINCE</span>
+            Calculator 
           </div>
           <div className="text-right mb-2">
             <div className="text-gray-400 text-sm h-6 overflow-hidden">
